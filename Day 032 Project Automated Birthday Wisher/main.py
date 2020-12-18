@@ -4,8 +4,8 @@ import datetime as dt
 import random
 import pandas
 # ---------- CREATE CONSTANT ---------- #
-MY_EMAIL = 'danielpinhapog@gmail.com'
-PASSWORD = 'pogtrial123'
+MY_EMAIL = 'EMAIL@gmail.com'
+PASSWORD = 'EMAIL PASS'
 SMTP_SERVE = 'smtp.gmail.com'
 
 # ---------- Get birthday date information ---------- #
