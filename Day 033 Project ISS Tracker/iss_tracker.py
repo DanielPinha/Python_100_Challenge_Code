@@ -5,8 +5,8 @@ import time
 # -------------- CREATE CONSTANT -------------- #
 MY_LAT = -12.977749
 MY_LONG = -38.501629
-MY_EMAIL = 'danielpinhapog@gmail.com'
-PASSWORD = 'pogtrial123'
+MY_EMAIL = 'EMAIL@gmail.com'
+PASSWORD = 'EMAIL PASS'
 SMTP_SERVE = 'smtp.gmail.com'
 # -------------- SEND EMAIL -------------- #
 
