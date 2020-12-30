@@ -77,3 +77,10 @@ while True:
         pass
     else:
         time.sleep(1)
+        
+    try:
+        match_button = driver.find_element_by_xpath('//*[@id="modal-manager-canvas"]/div/div/div[1]/div/div[4]/button')
+    except NoSuchElementException:
+        pass
+    else:
+        time.sleep(1)
